@@ -1,5 +1,5 @@
 def roll
-(rand() * 10).to_i
+(rand() * 6).to_i
 end
 
 # Feel free to google "how to generate a random number in ruby"
